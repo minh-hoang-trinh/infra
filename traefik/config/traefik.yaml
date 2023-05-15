@@ -1,0 +1,15 @@
+entryPoints:
+  http:
+    address: ":80"
+  https:
+    address: ":443"
+
+log:
+  level: DEBUG
+
+api:
+  insecure: true
+  dashboard: true
+
+providers:
+  docker: {}

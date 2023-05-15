@@ -1,0 +1,6 @@
+portainer/data
+sonarqube/docker-sonarqube
+sonarqube/postgresql_data
+sonarqube/sonarqube_data
+sonarqube/sonarqube_extensions
+sonarqube/sonarqube_logs
